@@ -46,7 +46,7 @@
 
 ## API Endpoints
 
-### POST `/request`
+### POST `/requests`
 
 Request body:
 ```json

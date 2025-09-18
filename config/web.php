@@ -50,7 +50,7 @@ $config = [
             'enablePrettyUrl' => true,
             'showScriptName' => false,
             'rules' => [
-                'request' => 'loan-requests/request',
+                'requests' => 'loan-requests/request',
                 'processor' => 'loan-requests/processor',
             ],
         ],
